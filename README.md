@@ -16,7 +16,7 @@ The solution uses a sequential model featuring an Embedding layer and two stacke
 
 The model is trained on the popular **`dair-ai/emotion`** dataset, which contains thousands of labeled tweets.
 
-*Training history showing the model's learning progression over 20 epochs.*
+*Training history showing the model's learning progression over the progressing epochs.*
 
 -----
 
